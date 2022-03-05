@@ -4,5 +4,5 @@ Hello
 ### My Profile
 
 ### Useful url
-[baidu.com]
+[baidu.com](http://baidu.com)
 
