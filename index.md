@@ -10,4 +10,4 @@ Hello
 
 [Bing](http://bing.com)
 
-[Cnki](http;//cnki.net)
+[Cnki](http://cnki.net)
