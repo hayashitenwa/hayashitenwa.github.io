@@ -4,5 +4,7 @@ Hello
 ### My Profile
 
 ### Useful url
-[baidu.com](http://baidu.com)
-
+[Baidu](http://baidu.com)
+[Github](http://github.com)
+[Bing](http://bing.com)
+[Cnki](http;//cnki.net)
